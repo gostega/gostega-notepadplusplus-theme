@@ -1,0 +1,1 @@
+# gostega-notepadplusplus-theme
